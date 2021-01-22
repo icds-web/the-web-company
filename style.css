@@ -49,7 +49,7 @@
 body {
     color: #999;
     font-size: 15px;
-    font-family: 'Raleway'serif; 
+    font-family: 'Raleway'serif;
     line-height: 1.7;
 }
 
@@ -486,7 +486,9 @@ a img.aligncenter {
 }
 
 .header_style_01 .navbar-brand {
-    padding: 2px 15px 0 15px;
+    padding: 27px 20px 0 10px;
+    font-size: 30px;
+    color: #000000;
 	height: auto;
 }
 
@@ -533,6 +535,7 @@ a img.aligncenter {
 .header_style_01 .navbar-right > li > a {
     padding-bottom: 10px;
     padding-top: 10px;
+
 }
 
 li.social-links {
@@ -566,7 +569,8 @@ li.social-links a {
 	line-height: 24px;
 	color: #ffffff;
 	font-size: 14px;
-	font-weight: 700;
+  font-family: 'Ubuntu' sans-serif;
+	font-weight: 1000;
 	padding: 9px 26px;
 	border-radius: 50px;
 	letter-spacing: 1px;
@@ -690,6 +694,7 @@ li.social-links a {
     padding: 0;
 }
 
+
 .nopadtop {
     padding-top: 0;
 }
@@ -762,7 +767,7 @@ li.social-links a {
     font-size: 42px;
     font-weight: 300;
     line-height: 62px;
-    margin: 0 0 25px;
+    margin: 5px 0 0 25px;
     padding: 0;
     text-transform: none;
 }
