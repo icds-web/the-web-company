@@ -2123,12 +2123,12 @@ select.mobile-device {
 .footer .widget-title small {
     color: #999;
     display: block;
-    padding: 0 58px;
+    padding: -200px 20px 10px 50px;
     text-transform: uppercase;
-	position: absolute;
-	bottom: 0;
-	right: 0;
 	width: 90%;
+  font-size: 50px;
+  margin-top: 50px;
+  font-weight: bold;
 }
 
 .footer .widget-title h3 {
