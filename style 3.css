@@ -486,7 +486,7 @@ a img.aligncenter {
 }
 
 .header_style_01 .navbar-brand {
-    padding: 15px 20px 0 10px;
+    padding: 27px 20px 0 10px;
     font-size: 30px;
     color: #000000;
 	height: auto;
@@ -535,7 +535,6 @@ a img.aligncenter {
 .header_style_01 .navbar-right > li > a {
     padding-bottom: 10px;
     padding-top: 10px;
-    margin-left: 10px;
 
 }
 
