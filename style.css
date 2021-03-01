@@ -488,9 +488,10 @@ a img.aligncenter {
 .header_style_01 .navbar-brand {
     margin: 5px -20px 5px 20px;
     font-size: 30px;
-    color: #000000;
+    color: #bac63e;
 	height: auto;
 }
+
 
 .header_style_01 .navbar-default .navbar-nav > li > a {
     border-radius: 0;
